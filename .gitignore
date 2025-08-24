@@ -1,0 +1,25 @@
+﻿# OS
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+*.tmp
+
+# Env
+.env
+
+# PowerShell
+*.ps1xml
+*.psd1
+
+# IDE
+.vs/
+*.suo
+*.user
+
+# Rust
+/target/
+
+# Node
+node_modules/
